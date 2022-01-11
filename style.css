@@ -1,0 +1,27 @@
+body
+{
+  color: white;
+  background: purple;
+}
+span
+{
+  font-size: 30px;
+}
+#webcam , #resultview
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+#prediction1name ,#prediction2name  
+{
+  color: black;
+}
+.gesture_name
+{
+  font-size: 40px;
+}
+.gesture
+{
+  font-size:48px;
+}
